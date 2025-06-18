@@ -1,0 +1,5 @@
+To: alice@example.com  
+From: bob@example.com  
+Subject: Password Info
+
+Hey Alice, your new password is: abc123secure!
